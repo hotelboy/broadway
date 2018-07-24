@@ -1,4 +1,51 @@
 html {
-	background-color: lavender;
 	text-align: center;
+}
+
+.main {
+	background-image: url("/Users/Eddie/Desktop/broadway/docs/resources/images/the-flatiron-building.png");
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	fontsize: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+ul {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	color: white;
+	list-style: none;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.white {
+	color: white;
+	background-image: url("/Users/Eddie/Desktop/broadway/docs/resources/images/the-flatiron-building.png");
+	background-repeat: no-repeat;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+footer {
+	font-family: Helvetica, sans-serif;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
 }
